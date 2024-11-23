@@ -38,5 +38,6 @@ The output of this script will be the variable x, which contains the final optim
 
 - multi_run_10x20_11_17_24.xlsx: Data on fitness over time for 10 runs of the AMORE v1.2 mechanism with constraints on parameters and a seed particle of the original mechanism with 10x20 dimensions.
 
-- Mechanism folder contains the several mechanisms in F0AM format. The PSO runs contain the relevant settings and run size, and the starting mechanisms are titled "AMORE_v_1_1_no_background.m" and "AMOREv1_2_no_background.m". The reference mechanism (Caltech) is called "caltech_ref_no_background_6_7_23.m". 
-- AMORE_pso_25x25
+- Mechanism folder contains the several mechanisms in F0AM format. The PSO runs contain the relevant settings and run size, and the starting mechanisms are titled "AMORE_v_1_1_no_background.m" and "AMOREv1_2_no_background.m". The reference mechanism (Caltech) is called "caltech_ref_no_background_6_7_23.m".
+
+- pso_new_mech_Data: Performance data for several optimized mechanisms mentioned in the paper. 
